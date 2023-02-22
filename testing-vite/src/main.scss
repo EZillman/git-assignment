@@ -24,3 +24,12 @@ nav {
         border-radius: 1rem;
     }
 }
+
+section {
+    height: 100vh;
+}
+
+.other-gradient {
+    background: rgb(240,255,0);
+    background: linear-gradient(138deg, rgba(240,255,0,1) 0%, rgba(255,2,169,1) 100%);
+}
